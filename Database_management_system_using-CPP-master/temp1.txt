@@ -1,0 +1,1 @@
+student#-grno int|name-varchar |phone_no-varchar |branch-|;employee#-id int|name-varchar |phone_no-varchar |dept-|;job#-name varchar |phone_no-varchar |salary-int |;

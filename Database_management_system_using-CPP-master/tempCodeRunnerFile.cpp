@@ -1,0 +1,1 @@
+create table employee( ID int, Name varchar , Phone_no varchar , Dept );
